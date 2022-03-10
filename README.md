@@ -5,9 +5,12 @@
 <head>
 <b>MY OWN</b>
 
+<style>
 body {
   color: blue;
 }
+</style>
+
 </head>
 
 <body>
