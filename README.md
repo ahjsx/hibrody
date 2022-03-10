@@ -8,7 +8,9 @@
 <style>
 body {
   color: blue;
+  background: green;
 }
+</style>
 
 
 </head>
