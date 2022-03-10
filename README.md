@@ -2,23 +2,26 @@
 
 <center>
 
+ <head>
+    <meta charset="utf-8">
+    <title>My CSS experiment</title>
+    <style>
+      h1 {
+        color: blue;
+        background-color: yellow;
+        border: 1px solid black;
+      }
+
+      p {
+        color: red;
+      }
+    </style>
+  </head>
+
 <head>
 <b>MY OWN</b>
 </head>
 
-<head>
-<style>
-h2 {
-  color: blue;
-  background-color: yellow;
-
-}
-</style>
-
-</head>
-
-
-</head>
 
 <body>
 
@@ -35,7 +38,7 @@ h2 {
 <p>.<a href="https://www.youtube.com/watch?v=cd2FZrBgUjA" >random</a>
 
 
-
+</body>
 
 
     
