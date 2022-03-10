@@ -1,5 +1,3 @@
-# hibrody
-<!DOCTYPE html>
 
 <html>
 
