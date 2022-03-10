@@ -12,7 +12,7 @@
 
 <p>heres a amazing link <a href="https://schoolbox.scr.vic.edu.au"target="_blank">worst_place_ever
 <br>
-<p><b><u>I LOVE U BRODY GET BETTER SOON
+<p><u>I LOVE U BRODY GET BETTER SOON</u>
 
 <p>test
 
