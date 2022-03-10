@@ -6,9 +6,10 @@
 <b>MY OWN</b>
 
 <style>
-body {
+h2 {
   color: blue;
-  background: green;
+  background-color: yellow;
+
 }
 </style>
 
