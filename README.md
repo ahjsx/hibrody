@@ -10,16 +10,16 @@
         color: blue;
         background-color: yellow;
         border: 1px solid black;
+       .box{
         background-image: url(joel.png);
+padding: 200px;
+margin: 200px;
       }
 
       p {
         color: red;
       }
   
-  
-
-
 </style>
 
   </head>
