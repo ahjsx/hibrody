@@ -20,7 +20,7 @@
 
 <head>
 <b>MY OWN</b>
-</head>
+
 
 
 <body>
