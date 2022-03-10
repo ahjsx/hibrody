@@ -8,9 +8,9 @@
 
 <body>
 
-<p> heres a link to <a href="https://reddit.com"target="_blank">reddit
+<p> heres a link to <a> href="https://reddit.com"target="_blank">reddit
 
-<p>heres a amazing link <a href="https://schoolbox.scr.vic.edu.au"target="_blank">worst_place_ever
+<p>heres a amazing link <a> href="https://schoolbox.scr.vic.edu.au"target="_blank">worst_place_ever
 <br>
 <p><u>I LOVE U BRODY GET BETTER SOON</u>
 
