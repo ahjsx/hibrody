@@ -10,15 +10,15 @@
         color: blue;
         background-color: yellow;
         border: 1px solid black;
+        background-image: url(image/joel.png);
       }
 
       p {
         color: red;
       }
-    
-    body {
-  background-image: url("joel.jpg");
-}
+  
+  
+
 
 </style>
 
