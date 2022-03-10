@@ -19,15 +19,11 @@
 
 <head>
 <b>MY OWN</b>
-<style>
-body{
-  background-color: green;
-}
-</style>
 
 
 
-<body style = "background: url(newprotected.jpg)">
+
+<body>
 
 <p><a href="https://www.pornhub.com/">nothing here </a>.</p>
 
@@ -42,6 +38,12 @@ body{
 <br>
 
 <img scr="monkey.jpg" alt="MONKEYYYY">
+
+<style>
+body{
+  background-color: green;
+}
+</style>
 
 
 
