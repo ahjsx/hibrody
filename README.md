@@ -16,6 +16,11 @@
         color: red;
       }
     </style>
+    <style>
+    body {
+  background-image: url("joel.jpg");
+}
+</style>
   </head>
 
 <head>
