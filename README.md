@@ -9,7 +9,7 @@
 body {
   color: blue;
 }
-</style>
+
 
 </head>
 
@@ -19,11 +19,7 @@ body {
 
 
 
-<style>
-  h2 {
-    colour: blue;
-}
-</style>
+
 
 <p><h2>I LOVE U BRODY GET BETTER SOON</h2>
 
