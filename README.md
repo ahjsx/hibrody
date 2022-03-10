@@ -15,8 +15,7 @@
       p {
         color: red;
       }
-    </style>
-    <style>
+    
     body {
   background-image: url("joel.jpg");
 }
