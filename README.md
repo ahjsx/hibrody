@@ -4,6 +4,7 @@
 
 <head>
 <b>MY OWN</b>
+
 </head>
 
 <body>
@@ -18,10 +19,14 @@
 
 <p>.<a href="https://www.youtube.com/watch?v=cd2FZrBgUjA" >random</a>
 
+<style>
+h6 {
+    colour: blue;
+}
+</style>
 
 
 
-             
 
 
-<p> back to <a href="index.html">homepage
+    
