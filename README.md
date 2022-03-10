@@ -10,7 +10,7 @@
         color: blue;
         background-color: yellow;
         border: 1px solid black;
-        background-image: url(image/joel.png);
+        background-image: url(joel.png);
       }
 
       p {
