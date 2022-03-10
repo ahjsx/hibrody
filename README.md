@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>My CSS experiment</title>
     <style>
-      h1 {
+      h2 {
         color: blue;
         background-color: yellow;
         border: 1px solid black;
