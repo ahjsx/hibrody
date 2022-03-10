@@ -8,7 +8,9 @@
 </head>
 
 <body>
-
+body {
+  color: blue;
+}
 <p><a href="www.pornhub.com">nothing here</a>.</p>
 
 
