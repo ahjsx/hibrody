@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+# hibrody
 <!DOCTYPE html>
-=======
->>>>>>> ba5feef44006a1da5bc834c9fe117dbae147d6bd
 
 <html>
 
