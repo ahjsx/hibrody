@@ -4,7 +4,9 @@
 
 <head>
 <b>MY OWN</b>
+</head>
 
+<head>
 <style>
 h2 {
   color: blue;
@@ -12,6 +14,8 @@ h2 {
 
 }
 </style>
+
+</head>
 
 
 </head>
