@@ -17,7 +17,7 @@
 
 <body background="/desktop/image/unknown.png">
 
-  </head>
+  
 
 <head>
 <b>MY OWN</b>
