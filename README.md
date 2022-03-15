@@ -15,11 +15,7 @@
       }
 </style>
 
-<style>
-body {
-  background-image: url('./image/unknown.png');
-}
-</style>
+<body background="/desktop/image/unknown.png">
 
   </head>
 
