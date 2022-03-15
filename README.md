@@ -16,7 +16,7 @@
 </style>
 
 <style>
-p {
+body {
   background-image: url('../image/unknown.png');
 }
 </style>
