@@ -17,7 +17,7 @@
 
 <style>
 p {
-  background-image: url('unknown.png');
+  background-image: url('../image/unknown.png');
 }
 </style>
 
