@@ -39,12 +39,6 @@
 
 <img scr="monkey.jpg" alt="MONKEYYYY">
 
-<style>
-body{
-  background-color: red;
-  
-}
-</style>
 
 <p style="background-image: url('unknown.png');">
 
