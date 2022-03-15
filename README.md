@@ -40,7 +40,11 @@
 <img scr="monkey.jpg" alt="MONKEYYYY">
 
 
-<p style="background-image: url('unknown.png');">
+<style>
+p {
+  background-image: url('unknown.png');
+}
+</style>
 
 
 
