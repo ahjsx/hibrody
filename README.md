@@ -15,6 +15,12 @@
       }
 </style>
 
+<style>
+p {
+  background-image: url('unknown.png');
+}
+</style>
+
   </head>
 
 <head>
@@ -40,11 +46,7 @@
 <img scr="monkey.jpg" alt="MONKEYYYY">
 
 
-<style>
-p {
-  background-image: url('unknown.png');
-}
-</style>
+
 
 
 
